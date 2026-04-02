@@ -1,0 +1,12 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+    <PropertyGroup>
+	<TargetFramework>net9.0</TargetFramework>
+        <RootNamespace>Itmo.ObjectOrientedProgramming.Lab4.Presentation</RootNamespace>
+    </PropertyGroup>
+
+    <ItemGroup>
+      <ProjectReference Include="..\Lab4.Core\Lab4.Core.csproj" />
+    </ItemGroup>
+
+</Project>
